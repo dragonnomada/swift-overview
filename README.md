@@ -6,9 +6,10 @@
 ![02](screenshot/2.png)
 ![03](screenshot/3.png)
 ![04](screenshot/4.png)
-![05](screenshot/5.png)
-![06](screenshot/6.png)
+<!-- ![05](screenshot/5.png) -->
+<!-- ![06](screenshot/6.png) -->
 ![06](screenshot/7.png)
+![06](screenshot/8.png)
 
 ## PROYECTOS
 
@@ -32,6 +33,7 @@
 
 * Curso impartido en Mayo del 2022
 * Más de 67 proyectos y ejercicios
+* Ejercicios integrales y progresivos
 * 12 sesiones teóricas y prácticas
 * Código actualizado a IOS 15 y Swift 5.6
 * Proyectos documentados en Github
